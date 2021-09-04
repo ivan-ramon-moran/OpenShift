@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Source To Image Example Working!!!";
+		return "Source To Image Example Working!!! v2";
 	}
 	
 	
